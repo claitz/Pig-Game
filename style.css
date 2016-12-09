@@ -16,7 +16,7 @@ GENERAL
 }
 
 body {
-    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(back.svg);
+    background-image: linear-gradient(rgba(62, 20, 20, 0.4), rgba(62, 20, 20, 0.4)), url(img/back.svg);
     background-size: cover;
     background-position: center;
     font-family: Lato;
