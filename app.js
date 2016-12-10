@@ -103,10 +103,10 @@ function init() {
 
     // nascondo il dado e resetto i punteggi
     document.querySelector('.dice').style.display = 'none';
-    document.getElementById('score-0').textContent = 0
-    document.getElementById('score-1').textContent = 0
-    document.getElementById('current-0').textContent = 0
-    document.getElementById('current-1').textContent = 0
+    document.getElementById('score-0').textContent = 0;
+    document.getElementById('score-1').textContent = 0;
+    document.getElementById('current-0').textContent = 0;
+    document.getElementById('current-1').textContent = 0;
 
     // resetto i nomi dei giocatori
     document.querySelector('#name-0').textContent = 'Player 1';
